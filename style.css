@@ -1,0 +1,22 @@
+
+h1{
+    color: red;
+    text-align: center;
+}
+h4{
+    color: blue;
+text-align: center;
+}
+.btn:hover{
+    color: red;
+    background-color: black;
+    text-align: center;
+}
+.list{
+    width: 100%;
+}
+.img{
+    text-align: center;
+   margin: 10px;
+   padding: 10px;
+}
